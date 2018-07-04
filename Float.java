@@ -5,6 +5,7 @@
 // Use both rupees and dollars
 // Rs68.57=1Dollar
 // Use two integers to hold tax rupees and paisa
+// Dollar -> 35% -> Tax -> Rupees : Rupees and Paisa
 import java.util.Scanner;
 class Float{
     public static void main(String[] args) {
@@ -21,4 +22,3 @@ class Float{
         System.out.println("Paise: "+paise);
     }
 }
-// Dollar -> 35% -> Tax -> Rupees : Rupees and Paisa
