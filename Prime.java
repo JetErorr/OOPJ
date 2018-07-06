@@ -7,9 +7,7 @@ class Prime{
     int i,j,flag=0;
     for(i=2;i<n;i++){
         flag=0;
-        // System.out.println("I: "+i +"\n");
         for(j=2;j<i;j++){
-        // System.out.println("I: "+i +" J:"+j+"\n");
             if(i%j==0) {
                 flag=1;
             }
