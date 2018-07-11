@@ -16,5 +16,6 @@ class Prime{
                 System.out.println("I: " +i +" is a prime number.!");
             }
     }
+    var.close();
     }
 }

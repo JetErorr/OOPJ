@@ -14,5 +14,6 @@ class ArrayResult{
         }
         t=t/6;
         System.out.println("The percentage of your entered marks is: " +t +"\n");
+        var.close();
     }   
 }

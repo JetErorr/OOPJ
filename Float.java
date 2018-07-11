@@ -20,5 +20,6 @@ class Float{
         paise = (int)((tax - (int)tax)*10000);
         System.out.println("Rupees: "+rupees);
         System.out.println("Paise: "+paise);
+        var.close();
     }
 }
