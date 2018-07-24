@@ -22,7 +22,7 @@ class Pyramid{
                 System.out.print("* ");
             }
         System.out.print("\n");//Double LineFeed
-
         }
+        scan.close();
     }
 }
