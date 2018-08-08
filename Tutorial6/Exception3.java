@@ -39,5 +39,8 @@ class Exception3{
             throw new DCheck("Days of February exceded");}
             if((m==4 || m==6 || m==9 || m==11) && d>31){
             throw new DCheck("Days of 30-day month exceded");}
+            else{
+                System.out.println("The arguments you entered are correct and in-bounds.!");
+            }
     }
 }
