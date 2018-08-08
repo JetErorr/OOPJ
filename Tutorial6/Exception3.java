@@ -16,23 +16,28 @@ class DCheck extends RuntimeException{
             System.out.println(msg);
             System.out.println("Please enter the correct Date, keeping in mind the days in February.!");
         }
-
+        if (msg=="Days of 30-day month exceded"){
+            System.out.println(msg);
+            System.out.println("Please enter the correct Date, keeping in mind the days in each Month.!");            
+        }
     }
 }
-
 class Exception3{
     public static void main(String[] args) {
         int m = Integer.parseInt(args[0]);
         int d = Integer.parseInt(args[1]);
         int y = Integer.parseInt(args[2]);
-            if(y<1990||y>2018){
+            if( y<1990 || y>2018 ){
             throw new DCheck("Invalid Year");}
-            if(m<=0||m>12){
+            if( m<=0 || m>12 ){
             throw new DCheck("Invalid Month");}
-            if(d<=0||d>31){
+            if( d<=0 || d>31 ){
             throw new DCheck("Invalid Date");}
-            if(d>29 && m==2){
+            if( y%4!=0 && m==2 && d>29 ){
             throw new DCheck("Days of February exceded");}
-
+            if( y%4==0 && m==2 && d>30 ){
+            throw new DCheck("Days of February exceded");}
+            if((m==4 || m==6 || m==9 || m==11) && d>31){
+            throw new DCheck("Days of 30-day month exceded");}
     }
 }
