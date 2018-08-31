@@ -19,10 +19,11 @@ class TokenGen {
         TokenGen obj1 = new TokenGen();
         obj1.display();
         TokenGen obj2 = new TokenGen();
-        TokenGen obj3 = new TokenGen();
+        TokenGen obj4 = new TokenGen();
         System.out.println("Total No. of Objects created: "+counter);
         obj2.display();
-        obj3.display();
-        System.out.println("Total No. of Objects created: "+counter);
+        obj4.display();
+        System.out.println("Total No. of Objects created: "+counter);Old Changes
+        new changes
     }
 }
