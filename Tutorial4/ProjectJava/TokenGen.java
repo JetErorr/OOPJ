@@ -8,6 +8,7 @@ class TokenGen {
     }
 
     static void displayCount() {
+        System.out.println("This is from the file TokenGen.!");
         System.out.println("Total Copies generated: " + counter + "\n");
     }
 
@@ -23,7 +24,6 @@ class TokenGen {
         System.out.println("Total No. of Objects created: "+counter);
         obj2.display();
         obj4.display();
-        System.out.println("Total No. of Objects created: "+counter);Old Changes
-        new changes
+        System.out.println("Total No. of Objects created: "+counter);
     }
 }
