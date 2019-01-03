@@ -1,4 +1,6 @@
-class Byte{
+package Tutorial1;
+
+class Byte {
     public static void main(String[] args) {
         byte a=1;
         int i=0;

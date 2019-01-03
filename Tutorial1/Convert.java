@@ -1,3 +1,5 @@
+package Tutorial1;
+
 //Write a java app that converts dollars to rupess 1$=68.69rs
 import java.util.Scanner;
 class Convert{

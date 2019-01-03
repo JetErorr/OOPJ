@@ -1,3 +1,5 @@
+package Tutorial1;
+
 // Method 1 (Simple but Longer):-
 // class CLAAverage{
 //     public static void main(String[] args) {

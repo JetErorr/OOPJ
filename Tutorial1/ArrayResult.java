@@ -1,3 +1,5 @@
+package Tutorial1;
+
 import java.util.Scanner;
 class ArrayResult{
     public static void main(String[] args) {
