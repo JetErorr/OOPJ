@@ -1,4 +1,6 @@
-class DCheck extends RuntimeException{
+package Tutorial6;
+
+class DCheck extends RuntimeException {
     DCheck(String msg){
         if(msg=="Invalid Year"){
             System.out.println(msg);
