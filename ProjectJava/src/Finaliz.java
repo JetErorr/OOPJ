@@ -1,4 +1,6 @@
-class Finaliz{
+package ProjectJava.src;
+
+class Finaliz {
     int i,j,k;
     Finaliz(){
         System.out.println("Def Constructor Called.");

@@ -1,4 +1,6 @@
-public class Overload{
+package ProjectJava.src;
+
+public class Overload {
         int w, h, l;
         Overload(){
             w=10;h=20;l=30;
