@@ -1,4 +1,6 @@
-class Hello{
+package Tutorial4.ProjectJava.src;
+
+class Hello {
     public static void main(String[] args) {
     // System.out.println("Hello Wuurld");
         StudentInfo var = new StudentInfo();

@@ -1,4 +1,6 @@
-public class FactoryDemo{
+package Tutorial4.ProjectJava.src;
+
+public class FactoryDemo {
     public static void main(String[] args) {
         FactDesign obj = new FactDesign();
         StudentInfo stu1 = obj.getStudentInfo("C1");

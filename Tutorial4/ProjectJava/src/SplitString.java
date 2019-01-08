@@ -1,3 +1,5 @@
+package Tutorial4.ProjectJava.src;
+
 import java.util.Scanner;
 class SplitString{
     public static void main(String[] args){

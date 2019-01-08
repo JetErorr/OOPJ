@@ -1,4 +1,6 @@
-public class BackButton{
+package Tutorial4.ProjectJava.src;
+
+public class BackButton {
     public static void main(String[] args) {
         StrStack temp = new StrStack(3);
 

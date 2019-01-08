@@ -1,4 +1,6 @@
-public class Outer{
+package Tutorial4.ProjectJava.src;
+
+public class Outer {
     public int x;
     Outer (int value){
         x=value;

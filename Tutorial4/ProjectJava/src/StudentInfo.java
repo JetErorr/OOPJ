@@ -1,4 +1,6 @@
-class StudentInfo{
+package Tutorial4.ProjectJava.src;
+
+class StudentInfo {
     String name,add;
     int rno;
     void setName(String n){

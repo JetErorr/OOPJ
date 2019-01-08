@@ -1,3 +1,5 @@
+package Tutorial2;
+
 // 2/6
 import java.util.Scanner;
 class Pyramid{

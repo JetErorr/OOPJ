@@ -1,3 +1,5 @@
+package Tutorial2;
+
 import java.util.Scanner;
 class Prime{
     public static void main(String[] args) {

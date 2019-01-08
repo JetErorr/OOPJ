@@ -1,7 +1,9 @@
 package Tutorial6;
 
 class DCheck extends RuntimeException {
-    DCheck(String msg){
+    private static final long serialVersionUID = 1L;
+
+    DCheck(String msg) {
         if(msg=="Invalid Year"){
             System.out.println(msg);
             System.out.println("Please enter the Year in range of 1990 to 2018.!");

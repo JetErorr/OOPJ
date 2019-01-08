@@ -1,3 +1,5 @@
+package Tutorial1;
+
 // Write a program that defines a floating point variable 
 // Initialized with a ($)Dollar value for your income
 // And another floating point variable with value 

@@ -1,3 +1,5 @@
+package Tutorial3;
+
 // 3/1
 class RandomMonth {
 public static void main(String args[]) {

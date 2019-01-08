@@ -1,4 +1,6 @@
-public class StrStack{
+package Tutorial4.ProjectJava.src;
+
+public class StrStack {
     String[] stk;
     int top, size;
     StrStack(int size){
@@ -23,5 +25,6 @@ public class StrStack{
             top--;
             return temp;
         }
+        return null;
     }
 }

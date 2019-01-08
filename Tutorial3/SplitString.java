@@ -1,3 +1,5 @@
+package Tutorial3;
+
 // 3/3
 import java.util.Scanner;
 class SplitString{

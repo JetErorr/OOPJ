@@ -1,3 +1,5 @@
+package Tutorial2;
+
 // 2/5
 class StringStream{
     public static void main(String[] args) {

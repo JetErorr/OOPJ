@@ -1,4 +1,6 @@
-abstract class Vegetable{
+package Tutorial5;
+
+abstract class Vegetable {
     String color;
     abstract public String toString();
 }

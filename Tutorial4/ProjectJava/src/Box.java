@@ -1,4 +1,6 @@
-public class Box{
+package Tutorial4.ProjectJava.src;
+
+public class Box {
     int h,w,l;
     Box(){
         h=10;

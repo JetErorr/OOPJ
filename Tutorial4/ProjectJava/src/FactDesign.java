@@ -1,4 +1,6 @@
-public class FactDesign{
+package Tutorial4.ProjectJava.src;
+
+public class FactDesign {
     Box getBox(){
         Box temp = new Box();
         return temp;

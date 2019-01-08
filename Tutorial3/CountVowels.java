@@ -1,3 +1,5 @@
+package Tutorial3;
+
 // 3/2
 import java.util.Scanner;
 class CountVowels{

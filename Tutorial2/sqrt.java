@@ -1,3 +1,5 @@
+package Tutorial2;
+
 import java.util.Scanner;
 class sqrt{
     public static void main(String[] args) {

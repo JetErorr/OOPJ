@@ -1,3 +1,5 @@
+package Tutorial2;
+
 import java.util.Random;
 class VowelStar{
     public static void main(String[] args) {

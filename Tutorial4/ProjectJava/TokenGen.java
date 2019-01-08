@@ -1,3 +1,5 @@
+package Tutorial4.ProjectJava;
+
 class TokenGen {
     static int counter = 0;
     int copyNo;

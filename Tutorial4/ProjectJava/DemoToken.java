@@ -1,3 +1,5 @@
+package Tutorial4.ProjectJava;
+
 class DemoToken {
     public static void main(String[] args) {
         System.out.println("\nThis is from the file DemoToken.!");

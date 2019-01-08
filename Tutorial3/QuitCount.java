@@ -1,3 +1,5 @@
+package Tutorial3;
+
 import java.util.*;
 class QuitCount{
 public static int a,e,i,o,u;

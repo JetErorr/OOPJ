@@ -1,3 +1,5 @@
+package Tutorial1;
+
 // Write a java program that calculates percentage marks of a student
 // with marks of 6 subjects
 import java.util.Scanner;

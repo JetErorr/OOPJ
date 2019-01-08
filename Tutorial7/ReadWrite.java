@@ -1,3 +1,5 @@
+package Tutorial7;
+
 import java.io.*;
 
 class ReadWrite {
@@ -6,6 +8,6 @@ class ReadWrite {
         for (int i = 65; i < 101; i++) {
             fo.write((char)i);
         }
-        // fo.close();
+        fo.close();
     }
 }

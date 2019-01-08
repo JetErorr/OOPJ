@@ -1,3 +1,5 @@
+package Tutorial1;
+
 // Write a java application with two main methods
 class TwoMains{
     public static void main(String[] args) {

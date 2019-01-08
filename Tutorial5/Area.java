@@ -1,4 +1,6 @@
-abstract class shape{
+package Tutorial5;
+
+abstract class shape {
     abstract void area();
 }
 class triangle extends shape{

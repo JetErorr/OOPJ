@@ -1,4 +1,6 @@
-class Calls{
+package Tutorial4.ProjectJava.src;
+
+class Calls {
     int i;
     Calls(){
         i=20;

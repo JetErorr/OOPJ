@@ -1,3 +1,5 @@
+package Tutorial3;
+
 // 3/4
 import java.util.Scanner;   
 class StringPalindrome{  

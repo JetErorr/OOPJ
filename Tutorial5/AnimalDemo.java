@@ -1,4 +1,6 @@
-interface Transport{
+package Tutorial5;
+
+interface Transport {
     void deliver();
 }
 abstract class Animal{

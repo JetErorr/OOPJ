@@ -1,3 +1,5 @@
+package Tutorial2;
+
 import java.util.Random;
 class CharacterGen{
     public static void main(String[] args) {
